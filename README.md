@@ -96,7 +96,7 @@ Make sure the following libraries are installed in your Arduino IDE:
 
 ## 🎥 Demo Video
 
-🎬 [Watch the working demo here](videos/demo.mp4)
+🎬 [Watch the working demo here](Demo1.mp4)
 *(Upload your demonstration video to a folder named `videos/` in your repo.)*
 
 

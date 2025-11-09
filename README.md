@@ -83,7 +83,7 @@ Make sure the following libraries are installed in your Arduino IDE:
 ### 🧱 Hardware Setup
 | ESP32 Setup | Sensor Connections |
 |:-------------:|:------------------:|
-| ![Setup](images/setup.jpg) | ![Sensors](images/sensors.jpg) |
+| ![Setup](Air Quality Monitor/setup.jpg) | ![Sensors](images/sensors.jpg) |
 
 ### 📊 Display Screens
 | Home Screen | Alert Mode |

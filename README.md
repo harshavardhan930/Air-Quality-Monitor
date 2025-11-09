@@ -88,7 +88,7 @@ Make sure the following libraries are installed in your Arduino IDE:
 ### 📊 Display Screens
 | Home Screen | Alert Mode |
 |:-------------:|:------------:|
-| ![Display Home](images/display_home.jpg) | ![Display Alert](images/display_alert.jpg) |
+| ![Display Home](display_home.jpg) | ![Display Alert](display_alert.jpg) |
 
 *(Make sure your extracted images are placed in the `images/` folder with these filenames.)*
 

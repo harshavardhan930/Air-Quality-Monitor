@@ -96,5 +96,4 @@ Harsha Vardhana Raju
 🎓 Electrical & Electronics Engineering
 Swarnandra Institute of Engineering and Technology
 
-📧 harsha.vardhana@example.com
-🌐 GitHub Profile
+📧raju2292003@gmail.com

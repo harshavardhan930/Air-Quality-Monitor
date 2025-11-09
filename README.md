@@ -81,7 +81,7 @@ Make sure the following libraries are installed in your Arduino IDE:
 ## 🖼️ Project Images
 
 ### 🧱 Hardware Setup
-| ESP32 Setup | Sensor Connections |
+| ESP32 Setup | Mobile app |
 |:-------------:|:------------------:|
 | ![Setup](setup.jpg) | ![Sensors](sensors.jpg) |
 

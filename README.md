@@ -45,9 +45,6 @@ Additionally, the ESP32 transmits live sensor data over **Bluetooth** to a smart
 4. The ESP32 simultaneously sends live data over **Bluetooth** in this format:
 Temperature,Humidity,CO_ppm,DustDensity,FireStatus
 Example: 28.7,65.4,2.4,0.12,Yes
-
-yaml
-Copy code
 5. Data can be viewed using any **Bluetooth Terminal app** or a custom mobile application.
 
 ---
@@ -66,18 +63,6 @@ Copy code
 
 ---
 
-## 📦 Libraries Required
-
-Make sure the following libraries are installed in your Arduino IDE:
-
-- [LVGL](https://github.com/lvgl/lvgl)
-- [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
-- [DHT sensor library](https://github.com/adafruit/DHT-sensor-library)
-- [Adafruit Unified Sensor](https://github.com/adafruit/Adafruit_Sensor)
-- [BluetoothSerial (ESP32 Core)](https://github.com/espressif/arduino-esp32)
-
----
-
 ## 🖼️ Project Images
 
 ### 🧱 Hardware Setup
@@ -89,16 +74,11 @@ Make sure the following libraries are installed in your Arduino IDE:
 | Home Screen | Alert Mode |
 |:-------------:|:------------:|
 | ![Display Home](display_home.jpg) | ![Display Alert](display_alert.jpg) |
-
-*(Make sure your extracted images are placed in the `images/` folder with these filenames.)*
-
 ---
 
 ## 🎥 Demo Video
 
 🎬 [Watch the working demo here](Demo1.mp4)
-*(Upload your demonstration video to a folder named `videos/` in your repo.)*
-
 
 🧠 Applications
 Smart Home Air Quality Monitoring

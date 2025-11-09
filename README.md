@@ -96,10 +96,10 @@ Make sure the following libraries are installed in your Arduino IDE:
 
 ## 🎥 Demo Video
 
-🎬 [Watch the working demo here](videos/demo.mp4)\n
-🎬 [Watch the working demo here](videos/demo1.mp4)\n
-🎬 [Watch the working demo here](videos/demo2.mp4)\n
-🎬 [Watch the working demo here](videos/demo3.mp4)\n
+🎬 [Watch the working demo here](videos/demo.mp4)
+🎬 [Watch the working demo here](videos/demo1.mp4)
+🎬 [Watch the working demo here](videos/demo2.mp4)
+🎬 [Watch the working demo here](videos/demo3.mp4)
 *(Upload your demonstration video to a folder named `videos/` in your repo.)*
 
 

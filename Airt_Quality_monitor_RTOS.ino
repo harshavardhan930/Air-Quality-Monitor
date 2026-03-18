@@ -130,7 +130,7 @@ void sensorTask(void *pvParameters)
     float humidity = dht.readHumidity();
 
     int mq7Value = analogRead(MQ7PIN);
-    float co_ppm = mq7Value * (5.0 / 4096.0) * 50;
+    float co_ppm = mq7Value * (3.3 / 4096.0) * 50;
 
     /* Dust sensor */
     digitalWrite(ledPower, LOW);
@@ -141,7 +141,7 @@ void sensorTask(void *pvParameters)
     delayMicroseconds(deltaTime);
     digitalWrite(ledPower, HIGH);
 
-    calcVoltage = voMeasured * (5.0 / 1024);
+    calcVoltage = voMeasured * (3.3 / 4095);
     dustDensity = 0.17 * calcVoltage - 0.1;
 
     if (dustDensity < 0)
